@@ -1,7 +1,7 @@
 Package: image.textlinedetector
 Type: Package
 Title: Segment Images in Text Lines and Words
-Version: 0.1.1
+Version: 0.1.2
 Maintainer: Jan Wijffels <jan.wijffels@vub.be>
 Authors@R: c(
     person('Jan', 'Wijffels', role = c('aut', 'cre', 'cph'), email = 'jan.wijffels@vub.be', comment = "R wrapper"), 
@@ -26,7 +26,7 @@ SystemRequirements: C++11 and OpenCV 3 or newer: libopencv-dev (Debian,
         Ubuntu) or opencv-devel (Fedora)
 RoxygenNote: 7.1.1
 NeedsCompilation: yes
-Packaged: 2020-09-17 07:23:02 UTC; Jan
+Packaged: 2020-09-22 08:45:05 UTC; Jan
 Author: Jan Wijffels [aut, cre, cph] (R wrapper),
   Vrije Universiteit Brussel - DIGI: Brussels Platform for Digital
     Humanities [cph] (R wrapper),
@@ -36,4 +36,4 @@ Author: Jan Wijffels [aut, cre, cph] (R wrapper),
   Yeara Kozlov [ctb, cph] (More details in LICENSE.note file),
   Tino Weinkauf [ctb, cph] (More details in LICENSE.note file)
 Repository: CRAN
-Date/Publication: 2020-09-21 16:10:07 UTC
+Date/Publication: 2020-09-22 10:40:06 UTC
