@@ -1,3 +1,9 @@
+### CHANGES IN image.textlinedetector VERSION 0.1.3
+
+- Update configure script, using new autobrew location https://autobrew.github.io/scripts/opencv, using sh instead of bash
+- Windows uses now opencv 4.4.0
+- Fix for R CMD check valgrind message
+
 ### CHANGES IN image.textlinedetector VERSION 0.1.2
 
 - Use C++11 instead of C++17 in Makevars.win
